@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_11358" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11365" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11359" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11364" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11360" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11361" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11362" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11363" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11366" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11367" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11368" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_434_1">
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="1161" y="1046"/>
+                    <Point2DDouble x="1200" y="1046"/>
+                    <Point2DDouble x="1360" y="1058"/>
+                    <Point2DDouble x="2056" y="1052"/>
+                    <Point2DDouble x="2064" y="1051"/>
+                    <Point2DDouble x="2076" y="1050"/>
+                    <Point2DDouble x="2104" y="1049"/>
+                    <Point2DDouble x="2136" y="1048"/>
+                    <Point2DDouble x="2152" y="1047"/>
+                    <Point2DDouble x="2364" y="1028"/>
+                    <Point2DDouble x="2372" y="1027"/>
+                    <Point2DDouble x="2380" y="1027"/>
+                    <Point2DDouble x="2424" y="1026"/>
+                    <Point2DDouble x="2440" y="1027"/>
+                    <Point2DDouble x="2468" y="1028"/>
+                    <Point2DDouble x="2530" y="1029"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="1083" y="1643"/>
+                    <Point2DDouble x="1204" y="1643"/>
+                    <Point2DDouble x="1612" y="1648"/>
+                    <Point2DDouble x="2095" y="1649"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="1058" y="1665"/>
+                    <Point2DDouble x="2075" y="1665"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="1139" y="2019"/>
+                    <Point2DDouble x="1388" y="2026"/>
+                    <Point2DDouble x="1400" y="2025"/>
+                    <Point2DDouble x="1424" y="2024"/>
+                    <Point2DDouble x="1584" y="2032"/>
+                    <Point2DDouble x="1708" y="2035"/>
+                    <Point2DDouble x="1796" y="2033"/>
+                    <Point2DDouble x="1808" y="2033"/>
+                    <Point2DDouble x="1832" y="2034"/>
+                    <Point2DDouble x="1944" y="2015"/>
+                    <Point2DDouble x="1952" y="2016"/>
+                    <Point2DDouble x="2008" y="2030"/>
+                    <Point2DDouble x="2036" y="2029"/>
+                    <Point2DDouble x="2056" y="2028"/>
+                    <Point2DDouble x="2072" y="2027"/>
+                    <Point2DDouble x="2096" y="2026"/>
+                    <Point2DDouble x="2372" y="2015"/>
+                    <Point2DDouble x="2380" y="2016"/>
+                    <Point2DDouble x="2388" y="2016"/>
+                    <Point2DDouble x="2424" y="2015"/>
+                    <Point2DDouble x="2512" y="2030"/>
+                    <Point2DDouble x="2540" y="2030"/>
+                    <Point2DDouble x="2600" y="2031"/>
+                    <Point2DDouble x="2612" y="2030"/>
+                    <Point2DDouble x="2640" y="1990"/>
+                    <Point2DDouble x="2648" y="1991"/>
+                    <Point2DDouble x="2656" y="1992"/>
+                    <Point2DDouble x="2664" y="1992"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_434_1_90" col="col_inscriptions_434_1" n="0"/>
+        <ll id="line_inscriptions_434_1_90aa" col="col_inscriptions_434_1" n="1"/>
+        <ll id="line_inscriptions_434_1_92" col="col_inscriptions_434_1" n="3"/>
+        <ll id="line_inscriptions_434_1_91" col="col_inscriptions_434_1" n="2"/>
+    </lineLinks>
+</OriData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_1465" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1458" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1459" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_1462" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_1466" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1460" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1461" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1463" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_1464" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1467" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_1468" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_33_1">
+            <GraphicalLine lh="19">
+                <LinearInterpolation>
+                    <Point2DDouble x="1776" y="243"/>
+                    <Point2DDouble x="1905" y="242"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="19">
+                <LinearInterpolation>
+                    <Point2DDouble x="1579" y="1326"/>
+                    <Point2DDouble x="1960" y="1326"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="19">
+                <LinearInterpolation>
+                    <Point2DDouble x="1799" y="1743"/>
+                    <Point2DDouble x="1808" y="1745"/>
+                    <Point2DDouble x="1824" y="1747"/>
+                    <Point2DDouble x="1840" y="1748"/>
+                    <Point2DDouble x="1966" y="1748"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_33_1_1" col="col_inscriptions_33_1" n="0"/>
+        <ll id="line_inscriptions_33_1_2" col="col_inscriptions_33_1" n="1"/>
+        <ll id="line_inscriptions_33_1_3" col="col_inscriptions_33_1" n="2"/>
+    </lineLinks>
+</OriData>

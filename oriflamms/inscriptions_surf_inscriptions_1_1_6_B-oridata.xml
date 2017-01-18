@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_p_w_inscriptions_192_1" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_188" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_189" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_p_w_inscriptions_192_2" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_190" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_191" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_7_1">
+            <GraphicalLine lh="18">
+                <LinearInterpolation>
+                    <Point2DDouble x="1524" y="657"/>
+                    <Point2DDouble x="1834" y="657"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="18">
+                <LinearInterpolation>
+                    <Point2DDouble x="1357" y="1329"/>
+                    <Point2DDouble x="1664" y="1329"/>
+                    <Point2DDouble x="1760" y="1330"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="18">
+                <LinearInterpolation>
+                    <Point2DDouble x="1292" y="2785"/>
+                    <Point2DDouble x="1544" y="2785"/>
+                    <Point2DDouble x="1576" y="2786"/>
+                    <Point2DDouble x="1608" y="2787"/>
+                    <Point2DDouble x="1640" y="2788"/>
+                    <Point2DDouble x="1664" y="2789"/>
+                    <Point2DDouble x="1730" y="2790"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_7_1_1" col="col_inscriptions_7_1" n="0"/>
+        <ll id="line_inscriptions_7_1_2" col="col_inscriptions_7_1" n="1"/>
+        <ll id="line_inscriptions_7_1_3" col="col_inscriptions_7_1" n="2"/>
+    </lineLinks>
+</OriData>

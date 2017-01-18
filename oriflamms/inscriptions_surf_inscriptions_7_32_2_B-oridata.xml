@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_6232" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_6233" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_6234" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_261_1">
+            <GraphicalLine lh="58">
+                <LinearInterpolation>
+                    <Point2DDouble x="1541" y="527"/>
+                    <Point2DDouble x="1668" y="527"/>
+                    <Point2DDouble x="1764" y="526"/>
+                    <Point2DDouble x="1812" y="527"/>
+                    <Point2DDouble x="1848" y="528"/>
+                    <Point2DDouble x="1872" y="529"/>
+                    <Point2DDouble x="1920" y="530"/>
+                    <Point2DDouble x="2016" y="529"/>
+                    <Point2DDouble x="2040" y="527"/>
+                    <Point2DDouble x="2100" y="523"/>
+                    <Point2DDouble x="2136" y="521"/>
+                    <Point2DDouble x="2160" y="520"/>
+                    <Point2DDouble x="2184" y="520"/>
+                    <Point2DDouble x="2220" y="519"/>
+                    <Point2DDouble x="2280" y="518"/>
+                    <Point2DDouble x="2496" y="515"/>
+                    <Point2DDouble x="2568" y="515"/>
+                    <Point2DDouble x="2604" y="514"/>
+                    <Point2DDouble x="2640" y="513"/>
+                    <Point2DDouble x="2664" y="512"/>
+                    <Point2DDouble x="2712" y="511"/>
+                    <Point2DDouble x="2772" y="510"/>
+                    <Point2DDouble x="2964" y="509"/>
+                    <Point2DDouble x="3054" y="510"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_261_1_1" col="col_inscriptions_261_1" n="0"/>
+    </lineLinks>
+</OriData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_11121" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11122" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_408_1">
+            <GraphicalLine lh="56">
+                <LinearInterpolation>
+                    <Point2DDouble x="1122" y="590"/>
+                    <Point2DDouble x="1938" y="590"/>
+                    <Point2DDouble x="1974" y="589"/>
+                    <Point2DDouble x="2413" y="588"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_408_1_52" col="col_inscriptions_408_1" n="0"/>
+    </lineLinks>
+</OriData>

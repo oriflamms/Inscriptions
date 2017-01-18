@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zones d'image pour surf_inscriptions_11_1_3_A</title>
+                <respStmt>
+                    <resp>Création automatique du fichier</resp>
+                    <name xml:id="TXM">Logiciel TXM (http://textometrie.ens-lyon.fr)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms (http://oriflamms.hypotheses.org)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Généré à partir du fichier de transcription au format TEI-Oriflamms</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-12-12" who="#TXM">Création du fichier</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="../img/">
+        <surface xml:id="surf_imginscriptions_11_1_3_A">
+            <graphic url="11_1_3_A.jpg"/>
+            <zone type="page" ulx="0" uly="0" lrx="799" lry="420" xml:id="zone-page_inscriptions_471">
+                <zone type="column" xml:id="zone-col_inscriptions_471_1">
+                    <zone type="line" xml:id="zone-line_inscriptions_471_1_1">
+                        <zone type="word" xml:id="zone-w_inscriptions_12432">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12432_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_12433">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12433_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12433_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12433_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12433_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_12434">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12434_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12434_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12434_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12434_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_12435">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_4"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_5"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_6"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12435_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_inscriptions_471_1_2">
+                        <zone type="word" xml:id="zone-w_inscriptions_12436">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12436_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12436_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12436_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12436_4"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12436_5"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12436_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_12437">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12437_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12437_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12437_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12437_4"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12437_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_12438">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12438_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12438_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12438_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12438_4"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_12438_5"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+        <surface xml:id="surf_inscriptions_11_1_3_A">
+            <graphic url="11_1_3_A.jpg"/>
+            <zone type="line" xml:id="zone-line_inscriptions_471_1_1" ulx="73" uly="244" lrx="761" lry="349">
+                <zone type="word" xml:id="zone-w_inscriptions_12432">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12432_1"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_12433">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12433_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12433_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12433_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12433_4"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_12434">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12434_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12434_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12434_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12434_4"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_12435">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_4"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_5"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_6"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12435_7"/>
+                </zone>
+            </zone>
+            <zone type="line" xml:id="zone-line_inscriptions_471_1_2">
+                <zone type="word" xml:id="zone-w_inscriptions_12436">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12436_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12436_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12436_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12436_4"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12436_5"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12436_6"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_12437">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12437_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12437_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12437_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12437_4"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12437_5"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_12438">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12438_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12438_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12438_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12438_4"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_12438_5"/>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>

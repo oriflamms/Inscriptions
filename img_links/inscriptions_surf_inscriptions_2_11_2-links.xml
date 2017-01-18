@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Données d'alignement pour les transcriptions et les zones d'image (inscriptions-w)</title>
+                <respStmt>
+                    <resp>Création automatique du fichier</resp>
+                    <name xml:id="TXM">Logiciel TXM (http://textometrie.ens-lyon.fr)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms (http://oriflamms.hypotheses.org)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Généré à partir du fichier de transcription au format TEI-Oriflamms</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/inscriptions-c.xml#$1"/>
+                <prefixDef ident="img" matchPattern="([a-z]+)" replacementPattern="../zones/inscriptions_surf_inscriptions_2_11_2-zones.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2016-12-12" who="#TXM">Création du fichier</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="linking">
+                <linkGrp type="surfaces"/>
+                <linkGrp type="pages">
+                    <link target="txt:page_inscriptions_50 img:zone-page_inscriptions_50"/>
+                </linkGrp>
+                <linkGrp type="columns">
+                    <link target="txt:col_inscriptions_50_1 img:zone-col_inscriptions_50_1"/>
+                </linkGrp>
+                <linkGrp type="lines">
+                    <link target="txt:line_inscriptions_50_1_1 img:zone-line_inscriptions_50_1_1"/>
+                    <link target="txt:line_inscriptions_50_1_1a img:zone-line_inscriptions_50_1_1a"/>
+                    <link target="txt:line_inscriptions_50_1_1b img:zone-line_inscriptions_50_1_1b"/>
+                    <link target="txt:line_inscriptions_50_1_1c img:zone-line_inscriptions_50_1_1c"/>
+                </linkGrp>
+                <linkGrp type="words">
+                    <link target="txt:w_inscriptions_1882 img:zone-w_inscriptions_1882"/>
+                    <link target="txt:w_inscriptions_1883 img:zone-w_inscriptions_1883"/>
+                    <link target="txt:w_inscriptions_1884 img:zone-w_inscriptions_1884"/>
+                    <link target="txt:w_inscriptions_1885 img:zone-w_inscriptions_1885"/>
+                    <link target="txt:w_inscriptions_1886 img:zone-w_inscriptions_1886"/>
+                    <link target="txt:w_inscriptions_1887 img:zone-w_inscriptions_1887"/>
+                    <link target="txt:w_inscriptions_1888 img:zone-w_inscriptions_1888"/>
+                    <link target="txt:w_inscriptions_1889 img:zone-w_inscriptions_1889"/>
+                    <link target="txt:w_inscriptions_1890 img:zone-w_inscriptions_1890"/>
+                    <link target="txt:w_inscriptions_1891 img:zone-w_inscriptions_1891"/>
+                    <link target="txt:w_inscriptions_1892 img:zone-w_inscriptions_1892"/>
+                    <link target="txt:w_inscriptions_1893 img:zone-w_inscriptions_1893"/>
+                    <link target="txt:w_inscriptions_1894 img:zone-w_inscriptions_1894"/>
+                    <link target="txt:w_inscriptions_1895 img:zone-w_inscriptions_1895"/>
+                    <link target="txt:w_inscriptions_1896 img:zone-w_inscriptions_1896"/>
+                    <link target="txt:w_inscriptions_1897 img:zone-w_inscriptions_1897"/>
+                    <link target="txt:w_inscriptions_1898 img:zone-w_inscriptions_1898"/>
+                    <link target="txt:w_inscriptions_1899 img:zone-w_inscriptions_1899"/>
+                    <link target="txt:w_inscriptions_1900 img:zone-w_inscriptions_1900"/>
+                    <link target="txt:w_inscriptions_1901 img:zone-w_inscriptions_1901"/>
+                    <link target="txt:w_inscriptions_1902 img:zone-w_inscriptions_1902"/>
+                    <link target="txt:w_inscriptions_1903 img:zone-w_inscriptions_1903"/>
+                    <link target="txt:w_inscriptions_1904 img:zone-w_inscriptions_1904"/>
+                    <link target="txt:w_inscriptions_1905 img:zone-w_inscriptions_1905"/>
+                </linkGrp>
+                <linkGrp type="characters">
+                    <link target="txt:c_w_inscriptions_1882_1 img:zone-c_w_inscriptions_1882_1"/>
+                    <link target="txt:c_w_inscriptions_1882_2 img:zone-c_w_inscriptions_1882_2"/>
+                    <link target="txt:c_w_inscriptions_1882_3 img:zone-c_w_inscriptions_1882_3"/>
+                    <link target="txt:c_w_inscriptions_1883_1 img:zone-c_w_inscriptions_1883_1"/>
+                    <link target="txt:c_w_inscriptions_1883_2 img:zone-c_w_inscriptions_1883_2"/>
+                    <link target="txt:c_w_inscriptions_1883_3 img:zone-c_w_inscriptions_1883_3"/>
+                    <link target="txt:c_w_inscriptions_1883_4 img:zone-c_w_inscriptions_1883_4"/>
+                    <link target="txt:c_w_inscriptions_1883_5 img:zone-c_w_inscriptions_1883_5"/>
+                    <link target="txt:c_w_inscriptions_1883_6 img:zone-c_w_inscriptions_1883_6"/>
+                    <link target="txt:c_w_inscriptions_1884_1 img:zone-c_w_inscriptions_1884_1"/>
+                    <link target="txt:c_w_inscriptions_1884_2 img:zone-c_w_inscriptions_1884_2"/>
+                    <link target="txt:c_w_inscriptions_1884_3 img:zone-c_w_inscriptions_1884_3"/>
+                    <link target="txt:c_w_inscriptions_1884_4 img:zone-c_w_inscriptions_1884_4"/>
+                    <link target="txt:c_w_inscriptions_1885_1 img:zone-c_w_inscriptions_1885_1"/>
+                    <link target="txt:c_w_inscriptions_1885_2 img:zone-c_w_inscriptions_1885_2"/>
+                    <link target="txt:c_w_inscriptions_1886_1 img:zone-c_w_inscriptions_1886_1"/>
+                    <link target="txt:c_w_inscriptions_1886_2 img:zone-c_w_inscriptions_1886_2"/>
+                    <link target="txt:c_w_inscriptions_1889_1 img:zone-c_w_inscriptions_1889_1"/>
+                    <link target="txt:c_w_inscriptions_1889_2 img:zone-c_w_inscriptions_1889_2"/>
+                    <link target="txt:c_w_inscriptions_1889_3 img:zone-c_w_inscriptions_1889_3"/>
+                    <link target="txt:c_w_inscriptions_1890_1 img:zone-c_w_inscriptions_1890_1"/>
+                    <link target="txt:c_w_inscriptions_1890_2 img:zone-c_w_inscriptions_1890_2"/>
+                    <link target="txt:c_w_inscriptions_1890_3 img:zone-c_w_inscriptions_1890_3"/>
+                    <link target="txt:c_w_inscriptions_1890_4 img:zone-c_w_inscriptions_1890_4"/>
+                    <link target="txt:c_w_inscriptions_1890_5 img:zone-c_w_inscriptions_1890_5"/>
+                    <link target="txt:c_w_inscriptions_1891_1 img:zone-c_w_inscriptions_1891_1"/>
+                    <link target="txt:c_w_inscriptions_1891_2 img:zone-c_w_inscriptions_1891_2"/>
+                    <link target="txt:c_w_inscriptions_1892_1 img:zone-c_w_inscriptions_1892_1"/>
+                    <link target="txt:c_w_inscriptions_1892_2 img:zone-c_w_inscriptions_1892_2"/>
+                    <link target="txt:c_w_inscriptions_1892_3 img:zone-c_w_inscriptions_1892_3"/>
+                    <link target="txt:c_w_inscriptions_1892_4 img:zone-c_w_inscriptions_1892_4"/>
+                    <link target="txt:c_w_inscriptions_1892_5 img:zone-c_w_inscriptions_1892_5"/>
+                    <link target="txt:c_w_inscriptions_1892_6 img:zone-c_w_inscriptions_1892_6"/>
+                    <link target="txt:c_w_inscriptions_1893_1 img:zone-c_w_inscriptions_1893_1"/>
+                    <link target="txt:c_w_inscriptions_1893_2 img:zone-c_w_inscriptions_1893_2"/>
+                    <link target="txt:c_w_inscriptions_1894_1 img:zone-c_w_inscriptions_1894_1"/>
+                    <link target="txt:c_w_inscriptions_1894_2 img:zone-c_w_inscriptions_1894_2"/>
+                    <link target="txt:c_w_inscriptions_1895_1 img:zone-c_w_inscriptions_1895_1"/>
+                    <link target="txt:c_w_inscriptions_1895_2 img:zone-c_w_inscriptions_1895_2"/>
+                    <link target="txt:c_w_inscriptions_1895_3 img:zone-c_w_inscriptions_1895_3"/>
+                    <link target="txt:c_w_inscriptions_1896_1 img:zone-c_w_inscriptions_1896_1"/>
+                    <link target="txt:c_w_inscriptions_1896_2 img:zone-c_w_inscriptions_1896_2"/>
+                    <link target="txt:c_w_inscriptions_1896_3 img:zone-c_w_inscriptions_1896_3"/>
+                    <link target="txt:c_w_inscriptions_1896_4 img:zone-c_w_inscriptions_1896_4"/>
+                    <link target="txt:c_w_inscriptions_1896_5 img:zone-c_w_inscriptions_1896_5"/>
+                    <link target="txt:c_w_inscriptions_1896_6 img:zone-c_w_inscriptions_1896_6"/>
+                    <link target="txt:c_w_inscriptions_1896_7 img:zone-c_w_inscriptions_1896_7"/>
+                    <link target="txt:c_w_inscriptions_1897_1 img:zone-c_w_inscriptions_1897_1"/>
+                    <link target="txt:c_w_inscriptions_1897_2 img:zone-c_w_inscriptions_1897_2"/>
+                    <link target="txt:c_w_inscriptions_1897_3 img:zone-c_w_inscriptions_1897_3"/>
+                    <link target="txt:c_w_inscriptions_1898_1 img:zone-c_w_inscriptions_1898_1"/>
+                    <link target="txt:c_w_inscriptions_1898_2 img:zone-c_w_inscriptions_1898_2"/>
+                    <link target="txt:c_w_inscriptions_1898_3 img:zone-c_w_inscriptions_1898_3"/>
+                    <link target="txt:c_w_inscriptions_1898_4 img:zone-c_w_inscriptions_1898_4"/>
+                    <link target="txt:c_w_inscriptions_1898_5 img:zone-c_w_inscriptions_1898_5"/>
+                    <link target="txt:c_w_inscriptions_1898_6 img:zone-c_w_inscriptions_1898_6"/>
+                    <link target="txt:c_w_inscriptions_1899_1 img:zone-c_w_inscriptions_1899_1"/>
+                    <link target="txt:c_w_inscriptions_1899_2 img:zone-c_w_inscriptions_1899_2"/>
+                    <link target="txt:c_w_inscriptions_1900_1 img:zone-c_w_inscriptions_1900_1"/>
+                    <link target="txt:c_w_inscriptions_1900_2 img:zone-c_w_inscriptions_1900_2"/>
+                    <link target="txt:c_w_inscriptions_1900_3 img:zone-c_w_inscriptions_1900_3"/>
+                    <link target="txt:c_w_inscriptions_1900_4 img:zone-c_w_inscriptions_1900_4"/>
+                    <link target="txt:c_w_inscriptions_1900_5 img:zone-c_w_inscriptions_1900_5"/>
+                    <link target="txt:c_w_inscriptions_1900_6 img:zone-c_w_inscriptions_1900_6"/>
+                    <link target="txt:c_w_inscriptions_1901_1 img:zone-c_w_inscriptions_1901_1"/>
+                    <link target="txt:c_w_inscriptions_1901_2 img:zone-c_w_inscriptions_1901_2"/>
+                    <link target="txt:c_w_inscriptions_1901_3 img:zone-c_w_inscriptions_1901_3"/>
+                    <link target="txt:c_w_inscriptions_1901_4 img:zone-c_w_inscriptions_1901_4"/>
+                    <link target="txt:c_w_inscriptions_1902_1 img:zone-c_w_inscriptions_1902_1"/>
+                    <link target="txt:c_w_inscriptions_1902_2 img:zone-c_w_inscriptions_1902_2"/>
+                    <link target="txt:c_w_inscriptions_1902_3 img:zone-c_w_inscriptions_1902_3"/>
+                    <link target="txt:c_w_inscriptions_1903_1 img:zone-c_w_inscriptions_1903_1"/>
+                    <link target="txt:c_w_inscriptions_1903_2 img:zone-c_w_inscriptions_1903_2"/>
+                    <link target="txt:c_w_inscriptions_1903_3 img:zone-c_w_inscriptions_1903_3"/>
+                    <link target="txt:c_w_inscriptions_1904_1 img:zone-c_w_inscriptions_1904_1"/>
+                    <link target="txt:c_w_inscriptions_1904_2 img:zone-c_w_inscriptions_1904_2"/>
+                    <link target="txt:c_w_inscriptions_1904_3 img:zone-c_w_inscriptions_1904_3"/>
+                    <link target="txt:c_w_inscriptions_1904_4 img:zone-c_w_inscriptions_1904_4"/>
+                    <link target="txt:c_w_inscriptions_1905_1 img:zone-c_w_inscriptions_1905_1"/>
+                    <link target="txt:c_w_inscriptions_1905_2 img:zone-c_w_inscriptions_1905_2"/>
+                    <link target="txt:c_w_inscriptions_1905_3 img:zone-c_w_inscriptions_1905_3"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>

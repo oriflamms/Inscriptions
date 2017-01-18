@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_11394" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11395" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11402" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11396" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11401" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11397" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11398" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11399" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11400" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11403" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11404" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_440_1">
+            <GraphicalLine lh="22">
+                <LinearInterpolation>
+                    <Point2DDouble x="215" y="902"/>
+                    <Point2DDouble x="336" y="902"/>
+                    <Point2DDouble x="368" y="901"/>
+                    <Point2DDouble x="626" y="892"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="22">
+                <LinearInterpolation>
+                    <Point2DDouble x="327" y="918"/>
+                    <Point2DDouble x="432" y="918"/>
+                    <Point2DDouble x="496" y="919"/>
+                    <Point2DDouble x="648" y="925"/>
+                    <Point2DDouble x="733" y="926"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_440_1_1" col="col_inscriptions_440_1" n="0"/>
+        <ll id="line_inscriptions_440_1_1a" col="col_inscriptions_440_1" n="1"/>
+    </lineLinks>
+</OriData>

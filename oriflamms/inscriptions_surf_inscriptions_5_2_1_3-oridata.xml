@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_2937" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_99_1">
+            <GraphicalLine lh="14">
+                <LinearInterpolation>
+                    <Point2DDouble x="1321" y="2166"/>
+                    <Point2DDouble x="1504" y="2166"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_99_1_1" col="col_inscriptions_99_1" n="0"/>
+    </lineLinks>
+</OriData>

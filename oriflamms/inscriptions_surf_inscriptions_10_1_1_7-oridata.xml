@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_10762" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10769" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10763" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10764" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10770" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10765" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10766" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10767" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10768" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10771" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10772" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_369_1">
+            <GraphicalLine lh="45">
+                <LinearInterpolation>
+                    <Point2DDouble x="568" y="655"/>
+                    <Point2DDouble x="569" y="655"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="45">
+                <LinearInterpolation>
+                    <Point2DDouble x="459" y="953"/>
+                    <Point2DDouble x="562" y="953"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_369_1_6" col="col_inscriptions_369_1" n="0"/>
+        <ll id="line_inscriptions_369_1_6a" col="col_inscriptions_369_1" n="1"/>
+    </lineLinks>
+</OriData>

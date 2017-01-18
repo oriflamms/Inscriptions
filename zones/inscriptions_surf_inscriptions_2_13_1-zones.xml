@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zones d'image pour surf_inscriptions_2_13_1</title>
+                <respStmt>
+                    <resp>Création automatique du fichier</resp>
+                    <name xml:id="TXM">Logiciel TXM (http://textometrie.ens-lyon.fr)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms (http://oriflamms.hypotheses.org)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Généré à partir du fichier de transcription au format TEI-Oriflamms</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-12-12" who="#TXM">Création du fichier</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="../img/">
+        <surface xml:id="surf_imginscriptions_2_13_1">
+            <graphic url="2_13_1.jpg"/>
+            <zone type="page" ulx="0" uly="0" lrx="3113" lry="1419" xml:id="zone-page_inscriptions_52">
+                <zone type="column" xml:id="zone-col_inscriptions_52_1">
+                    <zone type="line" xml:id="zone-line_inscriptions_52_1_1">
+                        <zone type="word" xml:id="zone-w_inscriptions_2017">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2017_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2017_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2017_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_2018">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2018_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2018_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2018_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_2019">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2019_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2019_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2019_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2019_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_inscriptions_2020">
+                            <zone type="character" xml:id="zone-c_pc_inscriptions_2020_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_inscriptions_52_1_2">
+                        <zone type="word" xml:id="zone-w_inscriptions_2021">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2021_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2021_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2021_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_2022">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2022_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2022_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2022_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_p_w_inscriptions_2023_1">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_4"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_5"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_6"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_inscriptions_52_1_3">
+                        <zone type="word" xml:id="zone-w_p_w_inscriptions_2023_2">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_8"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_9"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_10"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2023_11"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_inscriptions_2024">
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_1"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_2"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_3"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_4"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_5"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_6"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_7"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_8"/>
+                            <zone type="character" xml:id="zone-c_w_inscriptions_2024_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_inscriptions_2025">
+                            <zone type="character" xml:id="zone-c_pc_inscriptions_2025_1"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+        <surface xml:id="surf_inscriptions_2_13_1">
+            <graphic url="2_13_1.jpg"/>
+            <zone type="line" xml:id="zone-line_inscriptions_52_1_1" points="170,90 3024,58 3064,456 160,542 170,90">
+                <zone type="word" xml:id="zone-w_inscriptions_2017">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2017_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2017_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2017_3"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_2018">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2018_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2018_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2018_3"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_2019">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2019_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2019_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2019_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2019_4"/>
+                </zone>
+                <zone type="punctuation" xml:id="zone-pc_inscriptions_2020">
+                    <zone type="character" xml:id="zone-c_pc_inscriptions_2020_1"/>
+                </zone>
+            </zone>
+            <zone type="line" xml:id="zone-line_inscriptions_52_1_3" points="172,528 3054,434 3096,832 158,952 172,528">
+                <zone type="segmentation" xml:id="zone-w_p_w_inscriptions_2023_2">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_8"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_9"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_10"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_11"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_2024">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_4"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_5"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_6"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_7"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_8"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2024_9"/>
+                </zone>
+                <zone type="punctuation" xml:id="zone-pc_inscriptions_2025">
+                    <zone type="character" xml:id="zone-c_pc_inscriptions_2025_1"/>
+                </zone>
+            </zone>
+            <zone type="line" xml:id="zone-line_inscriptions_52_1_2" points="170,938 3032,802 3080,1262 164,1408 170,938">
+                <zone type="word" xml:id="zone-w_inscriptions_2021">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2021_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2021_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2021_3"/>
+                </zone>
+                <zone type="word" xml:id="zone-w_inscriptions_2022">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2022_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2022_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2022_3"/>
+                </zone>
+            </zone>
+            <zone type="word" xml:id="zone-w_inscriptions_2023">
+                <zone type="segmentation" xml:id="zone-w_p_w_inscriptions_2023_1">
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_1"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_2"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_3"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_4"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_5"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_6"/>
+                    <zone type="character" xml:id="zone-c_w_inscriptions_2023_7"/>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>

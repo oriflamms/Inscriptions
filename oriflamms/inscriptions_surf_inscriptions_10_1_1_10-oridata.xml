@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_10800" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10794" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10795" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10796" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10797" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_10798" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10801" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_10799" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_372_1">
+            <GraphicalLine lh="58">
+                <LinearInterpolation>
+                    <Point2DDouble x="265" y="650"/>
+                    <Point2DDouble x="1544" y="650"/>
+                    <Point2DDouble x="2056" y="649"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="58">
+                <LinearInterpolation>
+                    <Point2DDouble x="1533" y="1469"/>
+                    <Point2DDouble x="1594" y="1469"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_372_1_7" col="col_inscriptions_372_1" n="0"/>
+        <ll id="line_inscriptions_372_1_7a" col="col_inscriptions_372_1" n="1"/>
+    </lineLinks>
+</OriData>

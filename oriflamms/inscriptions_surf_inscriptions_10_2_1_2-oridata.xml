@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_inscriptions_11405" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11413" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11406" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11407" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11408" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11410" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11409" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11411" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11412" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11414" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11415" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11416" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11417" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11418" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11419" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11420" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11421" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11422" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11423" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11424" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11430" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11425" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11426" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11427" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_11428" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_11429" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_441_1">
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="124" y="2304"/>
+                    <Point2DDouble x="279" y="2304"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="765" y="2660"/>
+                    <Point2DDouble x="856" y="2660"/>
+                    <Point2DDouble x="959" y="2661"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+        <column id="col_inscriptions_442_1">
+            <GraphicalLine lh="23">
+                <LinearInterpolation>
+                    <Point2DDouble x="1583" y="3431"/>
+                    <Point2DDouble x="1824" y="3431"/>
+                    <Point2DDouble x="2484" y="3432"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_441_1_1" col="col_inscriptions_441_1" n="0"/>
+        <ll id="line_inscriptions_441_1_1a" col="col_inscriptions_441_1" n="1"/>
+        <ll id="line_inscriptions_442_1_1" col="col_inscriptions_442_1" n="0"/>
+    </lineLinks>
+</OriData>

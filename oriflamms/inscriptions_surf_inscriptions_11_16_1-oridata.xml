@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="pc_inscriptions_13366" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13360" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13361" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13380" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13362" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13363" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13364" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13365" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13367" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13368" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13385" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13369" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13370" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13371" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13372" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13373" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13374" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13375" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13376" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13377" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13378" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13379" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13381" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13382" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13383" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13384" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13386" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13387" ok="2" left="0" right="0" imgsig=""/>
+        <v id="pc_inscriptions_13388" ok="2" left="0" right="0" imgsig=""/>
+        <v id="w_inscriptions_13389" ok="2" left="0" right="0" imgsig=""/>
+    </validation>
+    <medlines>
+        <column id="col_inscriptions_499_1">
+            <GraphicalLine lh="49">
+                <LinearInterpolation>
+                    <Point2DDouble x="1410" y="525"/>
+                    <Point2DDouble x="1428" y="524"/>
+                    <Point2DDouble x="1459" y="524"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="49">
+                <LinearInterpolation>
+                    <Point2DDouble x="1373" y="849"/>
+                    <Point2DDouble x="1392" y="848"/>
+                    <Point2DDouble x="1428" y="846"/>
+                    <Point2DDouble x="1452" y="846"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="49">
+                <LinearInterpolation>
+                    <Point2DDouble x="1362" y="1674"/>
+                    <Point2DDouble x="1452" y="1674"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+            <GraphicalLine lh="49">
+                <LinearInterpolation>
+                    <Point2DDouble x="1368" y="1808"/>
+                    <Point2DDouble x="1392" y="1810"/>
+                    <Point2DDouble x="1416" y="1811"/>
+                    <Point2DDouble x="1454" y="1813"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_inscriptions_499_1_1" col="col_inscriptions_499_1" n="0"/>
+        <ll id="line_inscriptions_499_1_1a" col="col_inscriptions_499_1" n="1"/>
+        <ll id="line_inscriptions_499_1_1b" col="col_inscriptions_499_1" n="2"/>
+        <ll id="line_inscriptions_499_1_1c" col="col_inscriptions_499_1" n="3"/>
+    </lineLinks>
+</OriData>

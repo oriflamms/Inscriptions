@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Données d'alignement pour les transcriptions et les zones d'image (inscriptions-w)</title>
+                <respStmt>
+                    <resp>Création automatique du fichier</resp>
+                    <name xml:id="TXM">Logiciel TXM (http://textometrie.ens-lyon.fr)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms (http://oriflamms.hypotheses.org)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Généré à partir du fichier de transcription au format TEI-Oriflamms</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/inscriptions-c.xml#$1"/>
+                <prefixDef ident="img" matchPattern="([a-z]+)" replacementPattern="../zones/inscriptions_surf_inscriptions_23_2_1-zones.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2016-12-12" who="#TXM">Création du fichier</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="linking">
+                <linkGrp type="surfaces"/>
+                <linkGrp type="pages">
+                    <link target="txt:page_inscriptions_537 img:zone-page_inscriptions_537"/>
+                </linkGrp>
+                <linkGrp type="columns">
+                    <link target="txt:col_inscriptions_537_1 img:zone-col_inscriptions_537_1"/>
+                </linkGrp>
+                <linkGrp type="lines">
+                    <link target="txt:line_inscriptions_537_1_1 img:zone-line_inscriptions_537_1_1"/>
+                    <link target="txt:line_inscriptions_537_1_2 img:zone-line_inscriptions_537_1_2"/>
+                    <link target="txt:line_inscriptions_537_1_3 img:zone-line_inscriptions_537_1_3"/>
+                    <link target="txt:line_inscriptions_537_1_4 img:zone-line_inscriptions_537_1_4"/>
+                    <link target="txt:line_inscriptions_537_1_5 img:zone-line_inscriptions_537_1_5"/>
+                    <link target="txt:line_inscriptions_537_1_6 img:zone-line_inscriptions_537_1_6"/>
+                    <link target="txt:line_inscriptions_537_1_7 img:zone-line_inscriptions_537_1_7"/>
+                    <link target="txt:line_inscriptions_537_1_8 img:zone-line_inscriptions_537_1_8"/>
+                </linkGrp>
+                <linkGrp type="words">
+                    <link target="txt:w_inscriptions_15922 img:zone-w_inscriptions_15922"/>
+                    <link target="txt:w_inscriptions_15923 img:zone-w_inscriptions_15923"/>
+                    <link target="txt:pc_inscriptions_15924 img:zone-pc_inscriptions_15924"/>
+                    <link target="txt:w_inscriptions_15925 img:zone-w_inscriptions_15925"/>
+                    <link target="txt:pc_inscriptions_15926 img:zone-pc_inscriptions_15926"/>
+                    <link target="txt:w_inscriptions_15927 img:zone-w_inscriptions_15927"/>
+                    <link target="txt:pc_inscriptions_15928 img:zone-pc_inscriptions_15928"/>
+                    <link target="txt:w_inscriptions_15929 img:zone-w_inscriptions_15929"/>
+                    <link target="txt:w_inscriptions_15930 img:zone-w_inscriptions_15930"/>
+                    <link target="txt:pc_inscriptions_15931 img:zone-pc_inscriptions_15931"/>
+                    <link target="txt:w_inscriptions_15932 img:zone-w_inscriptions_15932"/>
+                    <link target="txt:pc_inscriptions_15933 img:zone-pc_inscriptions_15933"/>
+                    <link target="txt:w_inscriptions_15934 img:zone-w_inscriptions_15934"/>
+                    <link target="txt:w_inscriptions_15935 img:zone-w_inscriptions_15935"/>
+                    <link target="txt:w_inscriptions_15936 img:zone-w_inscriptions_15936"/>
+                    <link target="txt:w_inscriptions_15937 img:zone-w_inscriptions_15937"/>
+                    <link target="txt:w_p_w_inscriptions_15938_1 img:zone-w_p_w_inscriptions_15938_1"/>
+                    <link target="txt:w_p_w_inscriptions_15938_2 img:zone-w_p_w_inscriptions_15938_2"/>
+                    <link target="txt:pc_inscriptions_15939 img:zone-pc_inscriptions_15939"/>
+                    <link target="txt:w_inscriptions_15940 img:zone-w_inscriptions_15940"/>
+                    <link target="txt:w_inscriptions_15941 img:zone-w_inscriptions_15941"/>
+                    <link target="txt:w_inscriptions_15942 img:zone-w_inscriptions_15942"/>
+                    <link target="txt:w_p_w_inscriptions_15943_1 img:zone-w_p_w_inscriptions_15943_1"/>
+                    <link target="txt:w_p_w_inscriptions_15943_2 img:zone-w_p_w_inscriptions_15943_2"/>
+                    <link target="txt:w_inscriptions_15944 img:zone-w_inscriptions_15944"/>
+                    <link target="txt:w_p_w_inscriptions_15945_1 img:zone-w_p_w_inscriptions_15945_1"/>
+                    <link target="txt:w_p_w_inscriptions_15945_2 img:zone-w_p_w_inscriptions_15945_2"/>
+                    <link target="txt:w_inscriptions_15946 img:zone-w_inscriptions_15946"/>
+                    <link target="txt:w_p_w_inscriptions_15947_1 img:zone-w_p_w_inscriptions_15947_1"/>
+                    <link target="txt:w_p_w_inscriptions_15947_2 img:zone-w_p_w_inscriptions_15947_2"/>
+                    <link target="txt:w_inscriptions_15948 img:zone-w_inscriptions_15948"/>
+                    <link target="txt:w_inscriptions_15949 img:zone-w_inscriptions_15949"/>
+                    <link target="txt:w_inscriptions_15950 img:zone-w_inscriptions_15950"/>
+                    <link target="txt:w_inscriptions_15951 img:zone-w_inscriptions_15951"/>
+                    <link target="txt:pc_inscriptions_15952 img:zone-pc_inscriptions_15952"/>
+                </linkGrp>
+                <linkGrp type="characters">
+                    <link target="txt:c_w_inscriptions_15922_1 img:zone-c_w_inscriptions_15922_1"/>
+                    <link target="txt:c_w_inscriptions_15922_2 img:zone-c_w_inscriptions_15922_2"/>
+                    <link target="txt:c_w_inscriptions_15922_3 img:zone-c_w_inscriptions_15922_3"/>
+                    <link target="txt:c_w_inscriptions_15923_1 img:zone-c_w_inscriptions_15923_1"/>
+                    <link target="txt:c_w_inscriptions_15923_2 img:zone-c_w_inscriptions_15923_2"/>
+                    <link target="txt:c_w_inscriptions_15923_3 img:zone-c_w_inscriptions_15923_3"/>
+                    <link target="txt:c_pc_inscriptions_15924_1 img:zone-c_pc_inscriptions_15924_1"/>
+                    <link target="txt:c_w_inscriptions_15925_1 img:zone-c_w_inscriptions_15925_1"/>
+                    <link target="txt:c_pc_inscriptions_15926_1 img:zone-c_pc_inscriptions_15926_1"/>
+                    <link target="txt:c_w_inscriptions_15927_1 img:zone-c_w_inscriptions_15927_1"/>
+                    <link target="txt:c_w_inscriptions_15927_2 img:zone-c_w_inscriptions_15927_2"/>
+                    <link target="txt:c_pc_inscriptions_15928_1 img:zone-c_pc_inscriptions_15928_1"/>
+                    <link target="txt:c_w_inscriptions_15929_1 img:zone-c_w_inscriptions_15929_1"/>
+                    <link target="txt:c_w_inscriptions_15929_2 img:zone-c_w_inscriptions_15929_2"/>
+                    <link target="txt:c_w_inscriptions_15929_3 img:zone-c_w_inscriptions_15929_3"/>
+                    <link target="txt:c_w_inscriptions_15930_1 img:zone-c_w_inscriptions_15930_1"/>
+                    <link target="txt:c_w_inscriptions_15930_2 img:zone-c_w_inscriptions_15930_2"/>
+                    <link target="txt:c_w_inscriptions_15930_3 img:zone-c_w_inscriptions_15930_3"/>
+                    <link target="txt:c_w_inscriptions_15930_4 img:zone-c_w_inscriptions_15930_4"/>
+                    <link target="txt:c_pc_inscriptions_15931_1 img:zone-c_pc_inscriptions_15931_1"/>
+                    <link target="txt:c_w_inscriptions_15932_1 img:zone-c_w_inscriptions_15932_1"/>
+                    <link target="txt:c_w_inscriptions_15932_2 img:zone-c_w_inscriptions_15932_2"/>
+                    <link target="txt:c_w_inscriptions_15932_3 img:zone-c_w_inscriptions_15932_3"/>
+                    <link target="txt:c_w_inscriptions_15932_4 img:zone-c_w_inscriptions_15932_4"/>
+                    <link target="txt:c_w_inscriptions_15932_5 img:zone-c_w_inscriptions_15932_5"/>
+                    <link target="txt:c_pc_inscriptions_15933_1 img:zone-c_pc_inscriptions_15933_1"/>
+                    <link target="txt:c_w_inscriptions_15934_1 img:zone-c_w_inscriptions_15934_1"/>
+                    <link target="txt:c_w_inscriptions_15934_2 img:zone-c_w_inscriptions_15934_2"/>
+                    <link target="txt:c_w_inscriptions_15934_3 img:zone-c_w_inscriptions_15934_3"/>
+                    <link target="txt:c_w_inscriptions_15934_4 img:zone-c_w_inscriptions_15934_4"/>
+                    <link target="txt:c_w_inscriptions_15934_5 img:zone-c_w_inscriptions_15934_5"/>
+                    <link target="txt:c_w_inscriptions_15935_1 img:zone-c_w_inscriptions_15935_1"/>
+                    <link target="txt:c_w_inscriptions_15935_2 img:zone-c_w_inscriptions_15935_2"/>
+                    <link target="txt:c_w_inscriptions_15935_3 img:zone-c_w_inscriptions_15935_3"/>
+                    <link target="txt:c_w_inscriptions_15936_1 img:zone-c_w_inscriptions_15936_1"/>
+                    <link target="txt:c_w_inscriptions_15936_2 img:zone-c_w_inscriptions_15936_2"/>
+                    <link target="txt:c_w_inscriptions_15936_3 img:zone-c_w_inscriptions_15936_3"/>
+                    <link target="txt:c_w_inscriptions_15936_4 img:zone-c_w_inscriptions_15936_4"/>
+                    <link target="txt:c_w_inscriptions_15937_1 img:zone-c_w_inscriptions_15937_1"/>
+                    <link target="txt:c_w_inscriptions_15937_2 img:zone-c_w_inscriptions_15937_2"/>
+                    <link target="txt:c_w_inscriptions_15937_3 img:zone-c_w_inscriptions_15937_3"/>
+                    <link target="txt:c_w_inscriptions_15937_4 img:zone-c_w_inscriptions_15937_4"/>
+                    <link target="txt:c_w_inscriptions_15938_1 img:zone-c_w_inscriptions_15938_1"/>
+                    <link target="txt:c_w_inscriptions_15938_2 img:zone-c_w_inscriptions_15938_2"/>
+                    <link target="txt:c_w_inscriptions_15938_3 img:zone-c_w_inscriptions_15938_3"/>
+                    <link target="txt:c_w_inscriptions_15938_4 img:zone-c_w_inscriptions_15938_4"/>
+                    <link target="txt:c_w_inscriptions_15938_5 img:zone-c_w_inscriptions_15938_5"/>
+                    <link target="txt:c_pc_inscriptions_15939_1 img:zone-c_pc_inscriptions_15939_1"/>
+                    <link target="txt:c_w_inscriptions_15940_1 img:zone-c_w_inscriptions_15940_1"/>
+                    <link target="txt:c_w_inscriptions_15940_2 img:zone-c_w_inscriptions_15940_2"/>
+                    <link target="txt:c_w_inscriptions_15941_1 img:zone-c_w_inscriptions_15941_1"/>
+                    <link target="txt:c_w_inscriptions_15941_2 img:zone-c_w_inscriptions_15941_2"/>
+                    <link target="txt:c_w_inscriptions_15941_3 img:zone-c_w_inscriptions_15941_3"/>
+                    <link target="txt:c_w_inscriptions_15942_1 img:zone-c_w_inscriptions_15942_1"/>
+                    <link target="txt:c_w_inscriptions_15942_2 img:zone-c_w_inscriptions_15942_2"/>
+                    <link target="txt:c_w_inscriptions_15942_3 img:zone-c_w_inscriptions_15942_3"/>
+                    <link target="txt:c_w_inscriptions_15942_4 img:zone-c_w_inscriptions_15942_4"/>
+                    <link target="txt:c_w_inscriptions_15942_5 img:zone-c_w_inscriptions_15942_5"/>
+                    <link target="txt:c_w_inscriptions_15943_1 img:zone-c_w_inscriptions_15943_1"/>
+                    <link target="txt:c_w_inscriptions_15943_2 img:zone-c_w_inscriptions_15943_2"/>
+                    <link target="txt:c_w_inscriptions_15943_3 img:zone-c_w_inscriptions_15943_3"/>
+                    <link target="txt:c_w_inscriptions_15943_4 img:zone-c_w_inscriptions_15943_4"/>
+                    <link target="txt:c_w_inscriptions_15943_5 img:zone-c_w_inscriptions_15943_5"/>
+                    <link target="txt:c_w_inscriptions_15943_6 img:zone-c_w_inscriptions_15943_6"/>
+                    <link target="txt:c_w_inscriptions_15943_7 img:zone-c_w_inscriptions_15943_7"/>
+                    <link target="txt:c_w_inscriptions_15943_8 img:zone-c_w_inscriptions_15943_8"/>
+                    <link target="txt:c_w_inscriptions_15944_1 img:zone-c_w_inscriptions_15944_1"/>
+                    <link target="txt:c_w_inscriptions_15944_2 img:zone-c_w_inscriptions_15944_2"/>
+                    <link target="txt:c_w_inscriptions_15944_3 img:zone-c_w_inscriptions_15944_3"/>
+                    <link target="txt:c_w_inscriptions_15944_4 img:zone-c_w_inscriptions_15944_4"/>
+                    <link target="txt:c_w_inscriptions_15944_5 img:zone-c_w_inscriptions_15944_5"/>
+                    <link target="txt:c_w_inscriptions_15944_6 img:zone-c_w_inscriptions_15944_6"/>
+                    <link target="txt:c_w_inscriptions_15944_7 img:zone-c_w_inscriptions_15944_7"/>
+                    <link target="txt:c_w_inscriptions_15944_8 img:zone-c_w_inscriptions_15944_8"/>
+                    <link target="txt:c_w_inscriptions_15945_1 img:zone-c_w_inscriptions_15945_1"/>
+                    <link target="txt:c_w_inscriptions_15945_2 img:zone-c_w_inscriptions_15945_2"/>
+                    <link target="txt:c_w_inscriptions_15945_3 img:zone-c_w_inscriptions_15945_3"/>
+                    <link target="txt:c_w_inscriptions_15945_4 img:zone-c_w_inscriptions_15945_4"/>
+                    <link target="txt:c_w_inscriptions_15945_5 img:zone-c_w_inscriptions_15945_5"/>
+                    <link target="txt:c_w_inscriptions_15945_6 img:zone-c_w_inscriptions_15945_6"/>
+                    <link target="txt:c_w_inscriptions_15945_7 img:zone-c_w_inscriptions_15945_7"/>
+                    <link target="txt:c_w_inscriptions_15945_8 img:zone-c_w_inscriptions_15945_8"/>
+                    <link target="txt:c_w_inscriptions_15946_1 img:zone-c_w_inscriptions_15946_1"/>
+                    <link target="txt:c_w_inscriptions_15946_2 img:zone-c_w_inscriptions_15946_2"/>
+                    <link target="txt:c_w_inscriptions_15946_3 img:zone-c_w_inscriptions_15946_3"/>
+                    <link target="txt:c_w_inscriptions_15946_4 img:zone-c_w_inscriptions_15946_4"/>
+                    <link target="txt:c_w_inscriptions_15946_5 img:zone-c_w_inscriptions_15946_5"/>
+                    <link target="txt:c_w_inscriptions_15947_1 img:zone-c_w_inscriptions_15947_1"/>
+                    <link target="txt:c_w_inscriptions_15947_2 img:zone-c_w_inscriptions_15947_2"/>
+                    <link target="txt:c_w_inscriptions_15947_3 img:zone-c_w_inscriptions_15947_3"/>
+                    <link target="txt:c_w_inscriptions_15947_4 img:zone-c_w_inscriptions_15947_4"/>
+                    <link target="txt:c_w_inscriptions_15947_5 img:zone-c_w_inscriptions_15947_5"/>
+                    <link target="txt:c_w_inscriptions_15948_1 img:zone-c_w_inscriptions_15948_1"/>
+                    <link target="txt:c_w_inscriptions_15948_2 img:zone-c_w_inscriptions_15948_2"/>
+                    <link target="txt:c_w_inscriptions_15948_3 img:zone-c_w_inscriptions_15948_3"/>
+                    <link target="txt:c_w_inscriptions_15948_4 img:zone-c_w_inscriptions_15948_4"/>
+                    <link target="txt:c_w_inscriptions_15948_5 img:zone-c_w_inscriptions_15948_5"/>
+                    <link target="txt:c_w_inscriptions_15948_6 img:zone-c_w_inscriptions_15948_6"/>
+                    <link target="txt:c_w_inscriptions_15948_7 img:zone-c_w_inscriptions_15948_7"/>
+                    <link target="txt:c_w_inscriptions_15948_8 img:zone-c_w_inscriptions_15948_8"/>
+                    <link target="txt:c_w_inscriptions_15948_9 img:zone-c_w_inscriptions_15948_9"/>
+                    <link target="txt:c_w_inscriptions_15948_10 img:zone-c_w_inscriptions_15948_10"/>
+                    <link target="txt:c_w_inscriptions_15949_1 img:zone-c_w_inscriptions_15949_1"/>
+                    <link target="txt:c_w_inscriptions_15949_2 img:zone-c_w_inscriptions_15949_2"/>
+                    <link target="txt:c_w_inscriptions_15950_1 img:zone-c_w_inscriptions_15950_1"/>
+                    <link target="txt:c_w_inscriptions_15950_2 img:zone-c_w_inscriptions_15950_2"/>
+                    <link target="txt:c_w_inscriptions_15950_3 img:zone-c_w_inscriptions_15950_3"/>
+                    <link target="txt:c_w_inscriptions_15950_4 img:zone-c_w_inscriptions_15950_4"/>
+                    <link target="txt:c_w_inscriptions_15951_1 img:zone-c_w_inscriptions_15951_1"/>
+                    <link target="txt:c_w_inscriptions_15951_2 img:zone-c_w_inscriptions_15951_2"/>
+                    <link target="txt:c_w_inscriptions_15951_3 img:zone-c_w_inscriptions_15951_3"/>
+                    <link target="txt:c_w_inscriptions_15951_4 img:zone-c_w_inscriptions_15951_4"/>
+                    <link target="txt:c_pc_inscriptions_15952_1 img:zone-c_pc_inscriptions_15952_1"/>
+                </linkGrp>
+                <linkGrp type="punctuations">
+                    <link target="txt:pc_inscriptions_15928 img:zone-pc_inscriptions_15928"/>
+                    <link target="txt:pc_inscriptions_15924 img:zone-pc_inscriptions_15924"/>
+                    <link target="txt:pc_inscriptions_15952 img:zone-pc_inscriptions_15952"/>
+                    <link target="txt:pc_inscriptions_15933 img:zone-pc_inscriptions_15933"/>
+                    <link target="txt:pc_inscriptions_15931 img:zone-pc_inscriptions_15931"/>
+                    <link target="txt:pc_inscriptions_15926 img:zone-pc_inscriptions_15926"/>
+                    <link target="txt:pc_inscriptions_15939 img:zone-pc_inscriptions_15939"/>
+                </linkGrp>
+                <linkGrp type="segmentations">
+                    <link target="txt:w_p_w_inscriptions_15943_1 img:zone-w_p_w_inscriptions_15943_1"/>
+                    <link target="txt:w_p_w_inscriptions_15943_2 img:zone-w_p_w_inscriptions_15943_2"/>
+                    <link target="txt:w_p_w_inscriptions_15945_1 img:zone-w_p_w_inscriptions_15945_1"/>
+                    <link target="txt:w_p_w_inscriptions_15947_2 img:zone-w_p_w_inscriptions_15947_2"/>
+                    <link target="txt:w_p_w_inscriptions_15947_1 img:zone-w_p_w_inscriptions_15947_1"/>
+                    <link target="txt:w_p_w_inscriptions_15938_1 img:zone-w_p_w_inscriptions_15938_1"/>
+                    <link target="txt:w_p_w_inscriptions_15938_2 img:zone-w_p_w_inscriptions_15938_2"/>
+                    <link target="txt:w_p_w_inscriptions_15945_2 img:zone-w_p_w_inscriptions_15945_2"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>

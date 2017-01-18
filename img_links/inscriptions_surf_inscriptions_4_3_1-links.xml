@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Données d'alignement pour les transcriptions et les zones d'image (inscriptions-w)</title>
+                <respStmt>
+                    <resp>Création automatique du fichier</resp>
+                    <name xml:id="TXM">Logiciel TXM (http://textometrie.ens-lyon.fr)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms (http://oriflamms.hypotheses.org)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Généré à partir du fichier de transcription au format TEI-Oriflamms</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/inscriptions-c.xml#$1"/>
+                <prefixDef ident="img" matchPattern="([a-z]+)" replacementPattern="../zones/inscriptions_surf_inscriptions_4_3_1-zones.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2016-12-12" who="#TXM">Création du fichier</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="linking">
+                <linkGrp type="surfaces"/>
+                <linkGrp type="pages">
+                    <link target="txt:page_inscriptions_85 img:zone-page_inscriptions_85"/>
+                </linkGrp>
+                <linkGrp type="columns">
+                    <link target="txt:col_inscriptions_85_1 img:zone-col_inscriptions_85_1"/>
+                </linkGrp>
+                <linkGrp type="lines">
+                    <link target="txt:line_inscriptions_85_1_1 img:zone-line_inscriptions_85_1_1"/>
+                    <link target="txt:line_inscriptions_85_1_2 img:zone-line_inscriptions_85_1_2"/>
+                    <link target="txt:line_inscriptions_85_1_3 img:zone-line_inscriptions_85_1_3"/>
+                    <link target="txt:line_inscriptions_85_1_4 img:zone-line_inscriptions_85_1_4"/>
+                    <link target="txt:line_inscriptions_85_1_5 img:zone-line_inscriptions_85_1_5"/>
+                </linkGrp>
+                <linkGrp type="words">
+                    <link target="txt:w_inscriptions_2624 img:zone-w_inscriptions_2624"/>
+                    <link target="txt:w_inscriptions_2625 img:zone-w_inscriptions_2625"/>
+                    <link target="txt:w_inscriptions_2626 img:zone-w_inscriptions_2626"/>
+                    <link target="txt:w_inscriptions_2627 img:zone-w_inscriptions_2627"/>
+                    <link target="txt:pc_inscriptions_2628 img:zone-pc_inscriptions_2628"/>
+                    <link target="txt:w_inscriptions_2629 img:zone-w_inscriptions_2629"/>
+                    <link target="txt:w_inscriptions_2630 img:zone-w_inscriptions_2630"/>
+                    <link target="txt:w_inscriptions_2631 img:zone-w_inscriptions_2631"/>
+                    <link target="txt:w_inscriptions_2632 img:zone-w_inscriptions_2632"/>
+                    <link target="txt:pc_inscriptions_2633 img:zone-pc_inscriptions_2633"/>
+                    <link target="txt:w_inscriptions_2634 img:zone-w_inscriptions_2634"/>
+                    <link target="txt:w_inscriptions_2635 img:zone-w_inscriptions_2635"/>
+                    <link target="txt:w_inscriptions_2636 img:zone-w_inscriptions_2636"/>
+                    <link target="txt:pc_inscriptions_2637 img:zone-pc_inscriptions_2637"/>
+                    <link target="txt:w_inscriptions_2638 img:zone-w_inscriptions_2638"/>
+                    <link target="txt:w_inscriptions_2639 img:zone-w_inscriptions_2639"/>
+                    <link target="txt:w_inscriptions_2640 img:zone-w_inscriptions_2640"/>
+                    <link target="txt:pc_inscriptions_2641 img:zone-pc_inscriptions_2641"/>
+                    <link target="txt:w_inscriptions_2642 img:zone-w_inscriptions_2642"/>
+                </linkGrp>
+                <linkGrp type="characters">
+                    <link target="txt:c_w_inscriptions_2624_1 img:zone-c_w_inscriptions_2624_1"/>
+                    <link target="txt:c_w_inscriptions_2624_2 img:zone-c_w_inscriptions_2624_2"/>
+                    <link target="txt:c_w_inscriptions_2624_3 img:zone-c_w_inscriptions_2624_3"/>
+                    <link target="txt:c_w_inscriptions_2624_4 img:zone-c_w_inscriptions_2624_4"/>
+                    <link target="txt:c_w_inscriptions_2624_5 img:zone-c_w_inscriptions_2624_5"/>
+                    <link target="txt:c_w_inscriptions_2624_6 img:zone-c_w_inscriptions_2624_6"/>
+                    <link target="txt:c_w_inscriptions_2624_7 img:zone-c_w_inscriptions_2624_7"/>
+                    <link target="txt:c_w_inscriptions_2625_1 img:zone-c_w_inscriptions_2625_1"/>
+                    <link target="txt:c_w_inscriptions_2626_1 img:zone-c_w_inscriptions_2626_1"/>
+                    <link target="txt:c_w_inscriptions_2626_2 img:zone-c_w_inscriptions_2626_2"/>
+                    <link target="txt:c_w_inscriptions_2626_3 img:zone-c_w_inscriptions_2626_3"/>
+                    <link target="txt:c_w_inscriptions_2627_1 img:zone-c_w_inscriptions_2627_1"/>
+                    <link target="txt:c_w_inscriptions_2627_2 img:zone-c_w_inscriptions_2627_2"/>
+                    <link target="txt:c_w_inscriptions_2627_3 img:zone-c_w_inscriptions_2627_3"/>
+                    <link target="txt:c_w_inscriptions_2627_4 img:zone-c_w_inscriptions_2627_4"/>
+                    <link target="txt:c_w_inscriptions_2627_5 img:zone-c_w_inscriptions_2627_5"/>
+                    <link target="txt:c_pc_inscriptions_2628_1 img:zone-c_pc_inscriptions_2628_1"/>
+                    <link target="txt:c_w_inscriptions_2629_1 img:zone-c_w_inscriptions_2629_1"/>
+                    <link target="txt:c_w_inscriptions_2629_2 img:zone-c_w_inscriptions_2629_2"/>
+                    <link target="txt:c_w_inscriptions_2629_3 img:zone-c_w_inscriptions_2629_3"/>
+                    <link target="txt:c_w_inscriptions_2629_4 img:zone-c_w_inscriptions_2629_4"/>
+                    <link target="txt:c_w_inscriptions_2629_5 img:zone-c_w_inscriptions_2629_5"/>
+                    <link target="txt:c_w_inscriptions_2630_1 img:zone-c_w_inscriptions_2630_1"/>
+                    <link target="txt:c_w_inscriptions_2630_2 img:zone-c_w_inscriptions_2630_2"/>
+                    <link target="txt:c_w_inscriptions_2630_3 img:zone-c_w_inscriptions_2630_3"/>
+                    <link target="txt:c_w_inscriptions_2631_1 img:zone-c_w_inscriptions_2631_1"/>
+                    <link target="txt:c_w_inscriptions_2631_2 img:zone-c_w_inscriptions_2631_2"/>
+                    <link target="txt:c_w_inscriptions_2632_1 img:zone-c_w_inscriptions_2632_1"/>
+                    <link target="txt:c_w_inscriptions_2632_2 img:zone-c_w_inscriptions_2632_2"/>
+                    <link target="txt:c_w_inscriptions_2632_3 img:zone-c_w_inscriptions_2632_3"/>
+                    <link target="txt:c_w_inscriptions_2632_4 img:zone-c_w_inscriptions_2632_4"/>
+                    <link target="txt:c_w_inscriptions_2632_5 img:zone-c_w_inscriptions_2632_5"/>
+                    <link target="txt:c_w_inscriptions_2632_6 img:zone-c_w_inscriptions_2632_6"/>
+                    <link target="txt:c_w_inscriptions_2632_7 img:zone-c_w_inscriptions_2632_7"/>
+                    <link target="txt:c_pc_inscriptions_2633_1 img:zone-c_pc_inscriptions_2633_1"/>
+                    <link target="txt:c_w_inscriptions_2634_1 img:zone-c_w_inscriptions_2634_1"/>
+                    <link target="txt:c_w_inscriptions_2634_2 img:zone-c_w_inscriptions_2634_2"/>
+                    <link target="txt:c_w_inscriptions_2634_3 img:zone-c_w_inscriptions_2634_3"/>
+                    <link target="txt:c_w_inscriptions_2635_1 img:zone-c_w_inscriptions_2635_1"/>
+                    <link target="txt:c_w_inscriptions_2635_2 img:zone-c_w_inscriptions_2635_2"/>
+                    <link target="txt:c_w_inscriptions_2635_3 img:zone-c_w_inscriptions_2635_3"/>
+                    <link target="txt:c_w_inscriptions_2636_1 img:zone-c_w_inscriptions_2636_1"/>
+                    <link target="txt:c_w_inscriptions_2636_2 img:zone-c_w_inscriptions_2636_2"/>
+                    <link target="txt:c_w_inscriptions_2636_3 img:zone-c_w_inscriptions_2636_3"/>
+                    <link target="txt:c_pc_inscriptions_2637_1 img:zone-c_pc_inscriptions_2637_1"/>
+                    <link target="txt:c_w_inscriptions_2638_1 img:zone-c_w_inscriptions_2638_1"/>
+                    <link target="txt:c_w_inscriptions_2638_2 img:zone-c_w_inscriptions_2638_2"/>
+                    <link target="txt:c_w_inscriptions_2639_1 img:zone-c_w_inscriptions_2639_1"/>
+                    <link target="txt:c_w_inscriptions_2639_2 img:zone-c_w_inscriptions_2639_2"/>
+                    <link target="txt:c_w_inscriptions_2639_3 img:zone-c_w_inscriptions_2639_3"/>
+                    <link target="txt:c_w_inscriptions_2639_4 img:zone-c_w_inscriptions_2639_4"/>
+                    <link target="txt:c_w_inscriptions_2640_1 img:zone-c_w_inscriptions_2640_1"/>
+                    <link target="txt:c_w_inscriptions_2640_2 img:zone-c_w_inscriptions_2640_2"/>
+                    <link target="txt:c_w_inscriptions_2640_3 img:zone-c_w_inscriptions_2640_3"/>
+                    <link target="txt:c_w_inscriptions_2640_4 img:zone-c_w_inscriptions_2640_4"/>
+                    <link target="txt:c_w_inscriptions_2640_5 img:zone-c_w_inscriptions_2640_5"/>
+                    <link target="txt:c_w_inscriptions_2640_6 img:zone-c_w_inscriptions_2640_6"/>
+                    <link target="txt:c_w_inscriptions_2640_7 img:zone-c_w_inscriptions_2640_7"/>
+                    <link target="txt:c_pc_inscriptions_2641_1 img:zone-c_pc_inscriptions_2641_1"/>
+                    <link target="txt:c_w_inscriptions_2642_1 img:zone-c_w_inscriptions_2642_1"/>
+                    <link target="txt:c_w_inscriptions_2642_2 img:zone-c_w_inscriptions_2642_2"/>
+                </linkGrp>
+                <linkGrp type="punctuations">
+                    <link target="txt:pc_inscriptions_2633 img:zone-pc_inscriptions_2633"/>
+                    <link target="txt:pc_inscriptions_2637 img:zone-pc_inscriptions_2637"/>
+                    <link target="txt:pc_inscriptions_2641 img:zone-pc_inscriptions_2641"/>
+                    <link target="txt:pc_inscriptions_2628 img:zone-pc_inscriptions_2628"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>
